@@ -11,5 +11,5 @@ I’ve been coding for almost a year now. I specialize in the detailed craft of 
 * ✉️  You can contact me at [joseph8778@gmail.com](mailto:joseph8778@gmail.com)
 * 🚀  I'm currently working on [Skinstric AI Website](http://https://skinstric-jt-rdpp.vercel.app/)
 * 🧠  I'm learning Make.com to learn more about high-level automation within a business.
-* 🤝  I'm open to collaborating on any sort of business automation project, AI integration w/ full-stack engineering, or any new application idea.
+* 🤝  I'm open to collaborating on any sort of business automation project, AI integration w/ full-stack development, or any new application idea.
 * ⚡  Currently halfway through How to Win Friends and Influence People. My fav book is the Subtle Art of Not Giving a F\*ck By Mark Manson.
