@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FullStack JS Developer
 ----------------------
 
-I've been coding for almost a year now, I love to workout, play my saxophone, and learn about coding + business! I love the detailed art of frontend development and the systematic beauty of creating a backend. I study business in school and love to see how my development skills transfer to the bigger picture of a business.
+I've been coding for almost a year now, I love to workout, play my saxophone, and learn about coding + business! I love the detailed art of frontend development and the systematic beauty of creating a backend. I love to problem solve and systemitize/automate solutions. My favorite part of software development is seeing how my development skills transfer to the bigger picture of a business.
 
 * 🌍  I'm based in Chicago
 * 🖥️  See my portfolio at [My portfolio](http://Thismyportfolio)
