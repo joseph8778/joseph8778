@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FullStack JS Developer
 ----------------------
 
-I love coding, the art of business/entrepreneurship, calisthenics/weightlifting, and playing my saxophone. I’m passionate about problem-solving and creating automated, streamlined solutions. My favorite part of software development is seeing how my skills tie into the bigger picture of growing a business.
+I love coding, the art of business, weightlifting/calisthenics, and playing my saxophone. I’m passionate about problem-solving and creating automated, streamlined applications & solutions. My favorite part of software development is seeing how my skills tie into the bigger picture of growing a business.
 
 * 🌍  I'm based in Chicago
 * 🖥️  See my portfolio at [My portfolio](http://Thismyportfolio)
